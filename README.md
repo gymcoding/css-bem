@@ -100,3 +100,7 @@ CSS **BEM**은 "**B**lock, **E**lement, **M**odifier"의 약어로 웹 개발에
 ## 유튜브 영상
 
 https://youtu.be/V8iLl2NyxgM
+
+## 짐코딩 클럽 - 가장 쉬운 웹 개발 입문
+
+https://gymcoding.co
